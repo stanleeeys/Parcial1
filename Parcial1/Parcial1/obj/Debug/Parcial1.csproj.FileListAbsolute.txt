@@ -1,0 +1,6 @@
+C:\Users\veget\Documents\GitHub\Parcial1\Parcial1\Parcial1\obj\Debug\Parcial1.csprojAssemblyReference.cache
+C:\Users\veget\Documents\GitHub\Parcial1\Parcial1\Parcial1\obj\Debug\Parcial1.exe.config
+C:\Users\veget\Documents\GitHub\Parcial1\Parcial1\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\veget\Documents\GitHub\Parcial1\Parcial1\Parcial1\obj\Debug\Parcial1.Vista.FrmMenu.resources
+C:\Users\veget\Documents\GitHub\Parcial1\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.cache
+C:\Users\veget\Documents\GitHub\Parcial1\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
